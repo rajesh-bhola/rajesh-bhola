@@ -10,8 +10,6 @@
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/rajesh-bhola?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <a href="https://github.com/rajesh-bhola?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/rajesh-bhola?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/rajesh-bhola/Simple-View-Counter">
-    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="170.5" height="28" role="img" aria-label="VISITORS: 175.9K"><title>VISITORS: 0</title><g shape-rendering="crispEdges"><rect width="100" height="28" fill="#640464"/><rect x="100" width="70.5" height="28" fill="#7c007c"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="100"><image x="9" y="7" width="14" height="14" /><text transform="scale(.1)" x="585" y="175" textLength="590" fill="#fff">VISITORS</text><text transform="scale(.1)" x="1352.5" y="175" textLength="465" fill="#fff" font-weight="bold">0</text></g></svg></a>
 </p>
 
 
