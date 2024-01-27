@@ -14,7 +14,7 @@
 
 
 ## Namaskaram 🙏🏻
-I'm Rajesh, having 4+ years of experience in web development from India.
+I'm Rajesh, having multiple years of experience in web development from India.
 
 - 🦔 Follow of my [RajeshBhola](https://arconnect.io) portfolio website
 
