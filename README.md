@@ -16,11 +16,11 @@
 ## Namaskaram 🙏🏻
 I'm Rajesh, having multiple years of experience in web development from India.
 
-- 🦔 Follow of my [RajeshBhola](https://arconnect.io) portfolio website
+- 🦔 Follow of my [RajeshBhola](https://rajesh-bhola.github.io) portfolio website
 
-- 👨‍💻 Working at [Concentrix](https://concentrix.com) as a software engineer
+- 👨‍💻 Working as a software engineer in India
 
-- 🧭 Founder of [bholacodecamp](https://github.com/th8ta),  where I document all the coding programs
+- 🧭 Founder of [bholacodecamp](https://rajesh-bhola.github.io/bholacodecamp),  where I document all the coding programs
 
 + and much more !
 
