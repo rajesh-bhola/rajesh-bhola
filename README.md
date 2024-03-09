@@ -14,13 +14,13 @@
 
 
 ## Namaskaram 🙏🏻
-I'm Rajesh, having multiple years of experience in web development from India.
+I'm Rajesh, having multiple years of experience in backend development from India.
 
-- 🦔 Follow of my [RajeshBhola](https://rajesh-bhola.github.io) portfolio website
+- 🦔 Follow of my [portfolio](https://rajesh-bhola.github.io) website
 
 - 👨‍💻 Working as a software engineer in India
 
-- 🧭 Founder of [bholacodecamp](https://rajesh-bhola.github.io/bholacodecamp),  where I document all the coding programs
+- 🧭 Founder of [bholacodecamp](https://rajesh-bhola.github.io/bholacodecamp), [codemine](https://rajesh-bhola.github.io/bholacodecamp) where I document all the coding programs
 
 + and much more !
 
