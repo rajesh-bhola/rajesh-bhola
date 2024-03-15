@@ -128,11 +128,12 @@ I'm Rajesh, having multiple years of experience in backend development from Indi
 <p>
   <a href="https://www.youtube.com/@bholarajesh"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/%20youtube-red.svg?logo=youtube&logoColor=white"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/jonah-lawrence/"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/%20linkedin-blue.svg?logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/the-rajesh-bhola/"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/%20linkedin-blue.svg? 
+  logo=linkedin&logoColor=white"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/therajeshbhola"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/%20x-white.svg?logo=x&logoColor=black"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discord Server"><img src="https://img.shields.io/badge/%20discord-purple.svg?logo=discord&logoColor=white"/></a>
+  <a href="" alt="Discord" title="Dev Pro Tips Discord Server"><img src="https://img.shields.io/badge/%20discord-purple.svg?logo=discord&logoColor=white"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 
 <!--   &#8287;&#8287;&#8287;&#8287;&#8287;
