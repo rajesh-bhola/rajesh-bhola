@@ -20,7 +20,7 @@ I'm Rajesh, having multiple years of experience in backend development from Indi
 
 - 👨‍💻 Working as a software engineer in India
 
-- 🧭 Founder of [bholacodecamp](https://rajesh-bhola.github.io/bholacodecamp), [codemine](https://rajesh-bhola.github.io/bholacodecamp) where I document all the coding programs
+- 🧭 Founder of [bholacodecamp](https://rajesh-bhola.github.io/bholacodecamp), [ZeroCube-DSA](https://rajesh-bhola.github.io/zerocube-dsa) where I document all the coding programs
 
 + and much more !
 
