@@ -13,9 +13,7 @@
 </p>
 
 
-## Namaskaram 🙏🏻
-Jay Jagannath ⭕‼️⭕
-<br><br>
+## Namaskaram 🙏🏻 Jay Jagannath ⭕‼️⭕
 I'm Rajesh, having multiple years of experience in backend development from India.
 
 - 🦔 Follow of my [portfolio](https://rajesh-bhola.github.io) website
