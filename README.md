@@ -38,7 +38,7 @@ I'm Rajesh, having multiple years of experience in backend development from Indi
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
       <a href="https://github.com/search?q=owner%3Arajesh-bhola+sql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
       <a href="https://github.com/search?q=owner%3Arajesh-bhola+sql"><img alt="Microservices" src="https://img.shields.io/badge/%20microservices-919152.svg?logo=microservices&logoColor=white"></a>
-      <a href="https://github.com/search?q=owner%3Arajesh-bhola+sql"><img alt="Groovy" src="https://img.shields.io/badge/%20groovy-919152.svg?logo=groovy&logoColor=white"></a>
+      <a href="https://github.com/search?q=owner%3Arajesh-bhola+sql"><img alt="Groovy" src="https://img.shields.io/badge/%20groovy-919152.svg?logo=groovy&logoColor=#4298B8"></a>
       <a href="https://github.com/search?q=owner%3Arajesh-bhola+sql"><img alt="Grails" src="https://img.shields.io/badge/%20grails-919152.svg?logo=grails&logoColor=white"></a>
 
   </p>
