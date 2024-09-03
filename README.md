@@ -6,21 +6,21 @@
 
 <p align="center">
   &nbsp; 
-  <a href="https://github.com/rajesh-bhola?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/rajesh-bhola?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/rajesh-bhola?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/rajesh-bhola?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/rajeshbhola?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/rajeshbhola?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  <a href="https://github.com/rajeshbhola?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/rajeshbhola?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 
 
 ## Namaskaram 🙏🏻 Jay Jagannath ⭕‼️⭕
 I'm Rajesh, having multiple years of experience in backend development as well as fullstack development from India.
 
-- 🦔 Follow of my [portfolio](https://rajesh-bhola.github.io) website
+- 🦔 Follow of my [portfolio](https://rajeshbhola.github.io) website
 
 - 👨‍💻 Working as a software engineer in India
 
-- 🧭 Founder of [bholaCodeCamp](https://rajesh-bhola.github.io/bholacodecamp), [ZeroCube-DSA](https://rajesh-bhola.github.io/zerocube-dsa) where I document all the coding programs
+- 🧭 Founder of [bholaCodeCamp](https://rajeshbhola.github.io/bholacodecamp), [ZeroCube-DSA](https://rajeshbhola.github.io/zerocube-dsa) where I document all the coding programs
 
 + and much more !
 
@@ -28,18 +28,18 @@ I'm Rajesh, having multiple years of experience in backend development as well a
 
 ## Skills
 <p>
-      <a href="https://github.com/search?q=owner%3Arajesh-bhola+kafka"><img alt="MIPS Assembly" src="https://img.shields.io/badge/apache%20kafka-525252.svg?logo=apache-kafka&logoColor=white"></a>
-      <a href="https://github.com/search?q=owner%3Arajesh-bhola+html"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
-      <a href="https://github.com/search?q=owner%3Arajesh-bhola+css"><img alt="CSS3" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
-      <a href="https://github.com/search?q=owner%3Arajesh-bhola+html"><img alt="HTML5" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
-      <a href="https://github.com/search?q=owner%3Arajesh-bhola+java"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
-      <a href="https://github.com/search?q=owner%3Arajesh-bhola+javascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-      <a href="https://github.com/search?q=owner%3Arajesh-bhola+markdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
+      <a href="https://github.com/search?q=owner%3Arajeshbhola+kafka"><img alt="MIPS Assembly" src="https://img.shields.io/badge/apache%20kafka-525252.svg?logo=apache-kafka&logoColor=white"></a>
+      <a href="https://github.com/search?q=owner%3Arajeshbhola+html"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
+      <a href="https://github.com/search?q=owner%3Arajeshbhola+css"><img alt="CSS3" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
+      <a href="https://github.com/search?q=owner%3Arajeshbhola+html"><img alt="HTML5" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
+      <a href="https://github.com/search?q=owner%3Arajeshbhola+java"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
+      <a href="https://github.com/search?q=owner%3Arajeshbhola+javascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+      <a href="https://github.com/search?q=owner%3Arajeshbhola+markdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
-      <a href="https://github.com/search?q=owner%3Arajesh-bhola+sql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
-      <a href="https://github.com/search?q=owner%3Arajesh-bhola+sql"><img alt="Microservices" src="https://img.shields.io/badge/%20microservices-919152.svg?logo=microservices&logoColor=white"></a>
-      <a href="https://github.com/search?q=owner%3Arajesh-bhola+sql"><img alt="Groovy" src="https://img.shields.io/badge/%20groovy-919152.svg?logo=groovy&logoColor=#4298B8"></a>
-      <a href="https://github.com/search?q=owner%3Arajesh-bhola+sql"><img alt="Grails" src="https://img.shields.io/badge/%20grails-919152.svg?logo=grails&logoColor=white"></a>
+      <a href="https://github.com/search?q=owner%3Arajeshbhola+sql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
+      <a href="https://github.com/search?q=owner%3Arajeshbhola+sql"><img alt="Microservices" src="https://img.shields.io/badge/%20microservices-919152.svg?logo=microservices&logoColor=white"></a>
+      <a href="https://github.com/search?q=owner%3Arajeshbhola+sql"><img alt="Groovy" src="https://img.shields.io/badge/%20groovy-919152.svg?logo=groovy&logoColor=#4298B8"></a>
+      <a href="https://github.com/search?q=owner%3Arajeshbhola+sql"><img alt="Grails" src="https://img.shields.io/badge/%20grails-919152.svg?logo=grails&logoColor=white"></a>
 
   </p>
 
@@ -113,7 +113,7 @@ I'm Rajesh, having multiple years of experience in backend development as well a
 
   <!-- https://github.com/rajesh-bhola/github-readme-activity-graph -->
 
-  <a href="https://github.com/rajesh-bhola/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=rajesh-bhola&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+  <a href="https://github.com/rajeshbhola/github-readme-activity-graph"><img alt="rajeshbhola's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=rajeshbhola&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 
 ## Contact
