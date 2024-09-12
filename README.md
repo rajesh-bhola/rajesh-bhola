@@ -16,11 +16,11 @@
 ## Namaskaram 🙏🏻 Jay Jagannath ⭕‼️⭕
 I'm Rajesh, having multiple years of experience in backend development as well as fullstack development from India.
 
-- 🦔 Follow of my [portfolio](https://rajeshbhola.github.io) website
-
 - 👨‍💻 Working as a software engineer in India
+  
+- 🦔 Follow of my [portfolio](https://rajeshbhola.github.io) website for hiring
 
-- 🧭 Founder of [bholaCodeCamp](https://rajeshbhola.github.io/bholacodecamp), [ZeroCube-DSA](https://rajeshbhola.github.io/zerocube-dsa) where I document all the coding programs
+- 🧭 Founder of [bholaCodeCamp](https://rajeshbhola.github.io/bholacodecamp), [ZeroCube-DSA](https://rajeshbhola.github.io/zerocube-dsa) where I document all the coding programs and concepts
 
 + and much more !
 
