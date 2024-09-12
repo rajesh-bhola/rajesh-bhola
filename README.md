@@ -14,7 +14,7 @@
 
 
 ## Namaskaram 🙏🏻 Jay Jagannath ⭕‼️⭕
-I'm Rajesh, having multiple years of experience in backend development as well as fullstack development from India.
+I’m Rajesh Bhola, a passionate and dedicated software Engineer specializing in Java, Spring Boot, microservices, and fullstack web development.
 
 - 👨‍💻 Working as a Software Engineer in Odisha, India
   
