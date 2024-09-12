@@ -16,7 +16,7 @@
 ## Namaskaram 🙏🏻 Jay Jagannath ⭕‼️⭕
 I'm Rajesh, having multiple years of experience in backend development as well as fullstack development from India.
 
-- 👨‍💻 Working as a software engineer in India
+- 👨‍💻 Working as a Software Engineer in Odisha, India
   
 - 🦔 Follow of my [portfolio](https://rajeshbhola.github.io) website for hiring
 
