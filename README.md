@@ -14,100 +14,91 @@
 
 
 ## Namaskaram 🙏🏻 Jay Jagannath ⭕‼️⭕
-I’m Rajesh Bhola, a passionate and dedicated software Engineer specializing in Java, Spring Boot, microservices, and fullstack web development.
+I’m Rajesh Bhola, a Senior Java Full-Stack Developer with 6.5+ years of experience in designing and deploying enterprise-grade web applications. Expert in microservices architecture, Spring Boot, and Angular, with a proven track record of optimizing system performance and modernizing legacy infrastructures. Adept at leveraging AI-driven development tools to accelerate delivery and implementing high-throughput data processing pipelines.
 
-- 👨‍💻 Working as a Software Engineer in Odisha, India
+- 👨‍💻 Working as a Software Engineer I at Concentrix Catalyst
   
-- 🦔 Follow of my [portfolio](https://rajeshbhola.github.io) website for hiring
+- 🦔 Follow my [portfolio](https://rajeshbhola.github.io) website for hiring
 
-- 🧭 Founder of [bholaCodeCamp](https://rajeshbhola.github.io/bholacodecamp), [ZeroCube-DSA](https://rajeshbhola.github.io/zerocube-dsa) where I document all the coding programs and concepts
+- 🧭 founder of rajeshbhola website where I write technical blog posts
 
-+ and much more !
++ and much more!
 
 
 
-## Skills
-<p>
-      <a href="https://github.com/search?q=owner%3Arajeshbhola+kafka"><img alt="MIPS Assembly" src="https://img.shields.io/badge/apache%20kafka-525252.svg?logo=apache-kafka&logoColor=white"></a>
-      <a href="https://github.com/search?q=owner%3Arajeshbhola+html"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
-      <a href="https://github.com/search?q=owner%3Arajeshbhola+css"><img alt="CSS3" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
-      <a href="https://github.com/search?q=owner%3Arajeshbhola+html"><img alt="HTML5" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
-      <a href="https://github.com/search?q=owner%3Arajeshbhola+java"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
-      <a href="https://github.com/search?q=owner%3Arajeshbhola+javascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-      <a href="https://github.com/search?q=owner%3Arajeshbhola+markdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
-      <a href="https://github.com/search?q=owner%3Arajeshbhola+sql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
-      <a href="https://github.com/search?q=owner%3Arajeshbhola+sql"><img alt="Microservices" src="https://img.shields.io/badge/%20microservices-919152.svg?logo=microservices&logoColor=white"></a>
-      <a href="https://github.com/search?q=owner%3Arajeshbhola+sql"><img alt="Groovy" src="https://img.shields.io/badge/%20groovy-919152.svg?logo=groovy&logoColor=#4298B8"></a>
-      <a href="https://github.com/search?q=owner%3Arajeshbhola+sql"><img alt="Grails" src="https://img.shields.io/badge/%20grails-919152.svg?logo=grails&logoColor=white"></a>
+## 🛠️ Skills
 
-  </p>
+- **Languages & Frameworks:** Java (8/17/21), Spring Boot, Spring Core, Spring MVC, Spring Security, Hibernate, Spring Data JPA
+- **Frontend:** Angular, TypeScript, JavaScript, HTML5, CSS3, Bootstrap
+- **Architecture & Messaging:** Microservices, Spring Cloud, RESTful APIs, Apache Kafka, RabbitMQ, Drools Decision Engine
+- **Databases & Caching:** PostgreSQL, MySQL, MongoDB, Redis, Cassandra
+- **DevOps & Cloud:** Docker, Kubernetes, AWS (EC2, S3), GitLab CI/CD, Linux, Jenkins
+- **AI Productivity Tools:** GitHub Copilot, Claude, Gemini, Ollama
+- **Testing:** JUnit, Mockito, MockMvc
 
-  <h3>🧰 Frameworks and Libraries</h3>
+<br>
+
+
+
+  <h3>💻 Tools I Use</h3>
 
   <p>
-      <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
-      <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
-      <a href="#"><img alt="JUnit" src="https://custom-icon-badges.demolab.com/badge/JUnit-25A162.svg?logo=check-circle&logoColor=white"></a>
-      <a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design-0081CB.svg?logo=material-design&logoColor=white"></a>
-      <a href="#"><img alt="Mockito" src="https://custom-icon-badges.demolab.com/badge/Mockito-0d1620.svg?logo=mockito"></a>
-      <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
-      <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
-      <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
-      <a href="#"><img alt="Spring" src="https://img.shields.io/badge/%20spring-009900.svg?logo=spring&logoColor=white"></a>
-      <a href="#"><img alt="Hibernate" src="https://img.shields.io/badge/%20hibernate-000099.svg?logo=hibernate&logoColor=white"></a>
-      <a href="#"><img alt="Vault" src="https://img.shields.io/badge/%20vault-012019.svg?logo=vault&logoColor=white"></a>
-      <a href="#"><img alt="Docker" src="https://img.shields.io/badge/%20docker-111152.svg?logo=docker&logoColor=white"></a>
-      <a href="#"><img alt="Kubernetes" src="https://img.shields.io/badge/%20kubernetes-911152.svg?logo=kubernetes&logoColor=white"></a>
-      <a href="#"><img alt="Jenkins" src="https://img.shields.io/badge/%20jenkins-919152.svg?logo=jenkins&logoColor=white"></a>
-      <a href="#"><img alt="JMeter" src="https://img.shields.io/badge/%20jmeter-019000.svg?logo=jmeter&logoColor=white"></a>
-      <a href="#"><img alt="Grafana" src="https://img.shields.io/badge/%20grafana-info.svg?logo=grafana&logoColor=white"></a>
-      <a href="#"><img alt="Maven" src="https://img.shields.io/badge/%20maven-pink.svg?logo=maven&logoColor=white"></a>
-      <a href="#"><img alt="Tomcat" src="https://img.shields.io/badge/%20tomcat-blue.svg?logo=tomcat&logoColor=white"></a>
-    
-      
-  </p>
-
-  <h3>🗄️ Databases and Cloud Hosting</h3>
-
-  <p>
-      <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
-      <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
-      <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
-      <a href="#"><img alt="Oracle" src ="https://img.shields.io/badge/Oracle-F00000.svg?logo=oracle&logoColor=white"></a>
-      <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
-      <a href="#"><img alt="Cassandra" src="https://img.shields.io/badge/%20cassandra-yellow.svg?logo=cassandra&logoColor=white"></a>
-      <a href="#"><img alt="GitLab" src="https://img.shields.io/badge/%20gitlab-red.svg?logo=gitlab&logoColor=white"></a>
-      
-  </p>
-
-  <h3>💻 Software and Tools</h3>
-
-  <p>
-      <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
-      <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
-      <a href="#"><img alt="Linux" src="https://img.shields.io/badge/%20Linux-1793D1.svg?logo=linux&logoColor=white"></a>
-      <a href="#"><img alt="Dbeaver" src="https://custom-icon-badges.demolab.com/badge/-Dbeaver-372923?logo=dbeaver-mono&logoColor=white"></a>
-      <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
+      <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
+      <a href="#"><img alt="Docker Desktop" src="https://img.shields.io/badge/Docker%20Desktop-2496ED.svg?logo=docker&logoColor=white"></a>
+      <a href="#"><img alt="JMeter" src="https://img.shields.io/badge/JMeter-D22128.svg?logo=apachejmeter&logoColor=white"></a>
+      <a href="#"><img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800.svg?logo=grafana&logoColor=white"></a>
+      <a href="#"><img alt="Splunk" src="https://img.shields.io/badge/Splunk-000000.svg?logo=splunk&logoColor=white"></a>
+      <a href="#"><img alt="Redis Insight" src="https://img.shields.io/badge/Redis%20Insight-DC382D.svg?logo=redis&logoColor=white"></a>
+      <a href="#"><img alt="WinSCP" src="https://img.shields.io/badge/WinSCP-005C8A.svg?logo=winscp&logoColor=white"></a>
+      <a href="#"><img alt="DataStax Studio" src="https://img.shields.io/badge/DataStax%20Studio-3E6B9B.svg?logo=datastax&logoColor=white"></a>
+      <a href="#"><img alt="Kubectl Terminal" src="https://img.shields.io/badge/Kubectl-326CE5.svg?logo=kubernetes&logoColor=white"></a>
+      <a href="#"><img alt="DBeaver" src="https://custom-icon-badges.demolab.com/badge/-Dbeaver-372923?logo=dbeaver-mono&logoColor=white"></a>
+      <a href="#"><img alt="JConsole" src="https://img.shields.io/badge/JConsole-007396.svg?logo=java&logoColor=white"></a>
       <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-      <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
-      <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
-      <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
-      <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS-302E31?logo=obs-studio&logoColor=white"></a>
       <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
-      <a href="#"><img alt="SonarLint" src="https://img.shields.io/badge/-SonarLint-CB2029?logo=sonarlint&logoColor=white"></a>
-      <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-      <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-      <a href="#"><img alt="Intellij Idea" src="https://img.shields.io/badge/Intellij%20Idea-009312.svg?logo=intellij-idea&logoColor=white"></a>
-      <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/%20eclipse-112234.svg?logo=eclipse&logoColor=white"></a>
-      <a href="#"><img alt="Github" src="https://img.shields.io/badge/%20github-525252.svg?logo=github&logoColor=white"></a>
-      <a href="#"><img alt="Jira" src="https://img.shields.io/badge/%20jira-blue.svg?logo=jira&logoColor=white"></a>
-      <a href="#"><img alt="Confluence" src="https://img.shields.io/badge/%20confluence-grey.svg?logo=confluence&logoColor=white"></a>
-    
-
+      <a href="#"><img alt="Bruno" src="https://img.shields.io/badge/Bruno-CC6600.svg?logo=bruno&logoColor=white"></a>
+      <a href="#"><img alt="SoapUI" src="https://img.shields.io/badge/SoapUI-8CC84B.svg?logo=smartbear&logoColor=white"></a>
+      <a href="#"><img alt="MySQL Workbench" src="https://img.shields.io/badge/MySQL%20Workbench-4479A1.svg?logo=mysql&logoColor=white"></a>
+      <a href="#"><img alt="pgAdmin" src="https://img.shields.io/badge/pgAdmin-336791.svg?logo=postgresql&logoColor=white"></a>
   </p>
 
 
+
+## 💼 Professional Experience
+
+### Concentrix Catalyst | Software Engineer I
+*March 2024 – Present*
+
+**Project 1: Supply Chain Management Elevate (Client: T-Mobile)**
+- Architected a Drools-based decision engine managing 30,000+ complex rules, significantly reducing logic hardcoding.
+- Developed reusable rule templates, empowering non-technical stakeholders to modify business logic independently.
+- Optimized system performance by implementing Caffeine in-memory caching, reducing database load and improving response times by 40%.
+- Engineered automated batch processing using Spring Scheduler to ensure seamless data synchronization across downstream systems.
+- Designed and implemented a comprehensive RESTful API layer using Spring Boot to expose decision engine capabilities, facilitating secure, low-latency integration with multi-tenant frontend applications.
+
+**Project 2: Quick View XPress (QVXP)**
+*Nov 2023 - Mar 2024*
+- Built comprehensive retail order management features, including multi-criteria search and secure refund/return workflows.
+- Led the migration of legacy services from Java 8 to Java 17 and transitioned messaging infrastructure from RabbitMQ to Apache Kafka.
+- Refactored 100+ microservices for Spring Boot 3.x/Jakarta EE compatibility using blue-green deployment strategies, achieving zero downtime.
+- Enhanced system observability and monitoring by integrating Splunk across the microservices ecosystem.
+
+### Girmiti Software Pvt Ltd | Software Engineer
+*May 2022 – September 2023*
+
+**Project 3: Green Box eCom2 (Client: Verifone)**
+- Developed high-concurrency REST APIs for billing report analysis across POS and eCommerce channels.
+- Built robust Kafka-based data pipelines, streaming transaction data from microservices to Snowflake for real-time analytics.
+- Collaborated in design reviews and requirement analysis, ensuring alignment with both functional and non-functional business goals.
+
+**Project 4: Payment Gateway**
+*December 2019 – April 2022*
+- Developed a secure, scalable payment gateway enabling multi-channel transactions for global merchants and banks.
+- Implemented core transactional logic including Auth, Capture, Void, and Settlement workflows.
+- Strengthened data security by integrating tokenization mechanisms, ensuring PCI-DSS compliance by preventing sensitive data storage.
+- Designed responsive UI modules using HTML5, CSS3, and Bootstrap, ensuring high performance across browsers.
+
+---
 
 ## 💻 GitHub Profile Stats
 
